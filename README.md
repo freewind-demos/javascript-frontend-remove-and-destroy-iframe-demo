@@ -1,6 +1,7 @@
-Js Hello World Demo
-===================
+JavaScript Frontend Remove and Destroy IFrame Demo
+=================================
 
-Open `index.html` in your browser.
-
-You will see "Hello, JS!" on the page.
+```
+npm install
+npm run demo
+```
